@@ -1,0 +1,12 @@
+# Python
+.env
+*.env
+__pycache__/
+database.db
+
+# Node.js
+node_modules/
+.env.local
+.env.*.local
+
+HWs/
